@@ -21,6 +21,8 @@ from lib.nn.modules.batchnorm import SynchronizedBatchNorm2d
 
 __all__ = ['CASPNet', 'CASPNet50', 'CASPNet101', 'CASPNet152']
 
+## caspnet --> LANet
+
 affine_par = True
 
 ##############################################################
