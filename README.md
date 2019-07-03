@@ -7,7 +7,16 @@ Requirement
 
 
 Models:
+# 未整理
 LANet --> CASPNet (caspnet.py)
+
+PSPNet
+DeepLab
+DeepLabV3
+Resnet
+Dilated_resnet
+se_resnet
+se_resnext
 
 DatasetS:
 SceneParse150
